@@ -1,7 +1,7 @@
 # synchronised-timeline
 Experience the next level of social media with Synchronized Timeline. Filter and sync timelines, personalize your feed, and effortlessly share photos, videos, and documents. Stay connected, stay in control. Explore a new way to engage with friends and family. Join the revolution today!
 
-
+# About Project
 Synchronized Timeline is a cutting-edge social media prototype that revolutionizes the way you view and interact with timelines. With this innovative feature, you can filter and synchronize timelines of the people you follow, creating a personalized and seamless home feed experience.
 
 One of the standout features of Synchronized Timeline is the ability to curate your home feed by manually selecting specific people's timelines. This empowers you to see posts only from the individuals you want, ensuring a tailored and relevant social media experience.
